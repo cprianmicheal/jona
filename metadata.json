@@ -1,0 +1,6 @@
+{
+  "name": "Emmystylez Solar Electrical Store",
+  "description": "Emmystylez Solar Electrical Store — Solar Energy Equipment Supplier, Electrical Equipment Store & Electronics Wholesaler in Ankpa, Kogi State, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
